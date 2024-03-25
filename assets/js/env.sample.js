@@ -1,0 +1,2 @@
+export const ACCUWEATHER_API_KEY = 'YOUR_API_KEY_HERE';
+export const MAPBOX_TOKEN = 'YOUR_TOKEN_CODE_HERE';
