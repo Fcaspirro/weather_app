@@ -200,10 +200,13 @@ body.loading {
     text-align: center;
 }
 
-#weatherinfo .results .city_name , 
-#weatherinfo .results .weather_result {
+#weatherinfo .results .city_name {
     text-align: left;
     font-size: 32px;
+}
+
+#weatherinfo .results .weather_result {
+    text-align: center;
 }
 
 #weatherinfo .results .city_name {
