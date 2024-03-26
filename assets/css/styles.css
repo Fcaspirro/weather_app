@@ -447,6 +447,10 @@ body.loading {
         font-size: 3.3vw;
     }
 
+    #weatherinfo .results .city_name {
+    	text-align: center;
+    }
+
     #weatherinfo .results .weather_charts .hourly_chart {
         margin: 20px auto;
         overflow: scroll !important;
