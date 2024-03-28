@@ -1,6 +1,6 @@
-<!-- <h3 align="center">
+<h3 align="center">
 	<img height="35px" alt="Logo do Weather App" title="logo Weather App" src="/assets/github/logo.png"/>
-</h3> -->
+</h3>
  
 <p align="center">
  <img align="center" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFcaspirro%2Fweather_app&countColor=%2337d67a"/>
@@ -8,31 +8,23 @@
 
 <h5 align="center"> 
   <b>✅ Finalizado | <i>Finished ✅</i></b><br>
-  <!-- <b>✅ Versão mobile Disponível | <i> ✅ Mobile Version Available</i></b> -->
+  <b>✅ Versão mobile Disponível | <i> ✅ Mobile Version Available</i></b>
 </h5> 
 
-<!--
 ---
   
  <h2 align="center"> 
   <b>🎞 Demonstração | <i>Demo</i>
 </h2> 
-
-<h3 align="center"> 
-  <b>Dispositivos Grandes | <i>Large Devices</i>
-</h3> 
-
- <div align="center">
-   <img width="auto" alt="Large Devices" title="Página Web" src="/assets/github/large-devices.png"/> 
- </div><br>
  
  <h3 align="center"> 
-  <b>Dispositivos Pequenos | <i>Small Devices</i>
+  <b>Dispositivos Grandes e Pequenos | <i>Large & Small Devices</i>
 </h3> 
 
  <div align="center">
-   <img align="top" width="auto" height="600px" alt="Medium Devices" title="Página Web" src="/assets/github/small-devices.png"/> 
- </div><br> -->
+   <img width="620px" alt="Large Devices" title="Large Devices" src="/assets/github/large-devices.gif"/> 
+   <img align="top" width="250px" alt="Small Devices" title="Small Devices" src="/assets/github/small-devices.gif"/> 
+ </div><br>
   
 ---
  
